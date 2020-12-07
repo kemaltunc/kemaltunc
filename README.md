@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kemal</h1>
-<h3 align="center">I'm an Android Developer from Turkey</h3>
+<h1>Hi 👋, I'm Kemal</h1>
+<h3>I'm an Android Developer from Turkey</h3>
 
 - 🌱 I’m currently learning <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="18" height="18"/> </a>
 
